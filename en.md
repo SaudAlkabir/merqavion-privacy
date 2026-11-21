@@ -58,29 +58,13 @@ documents, and creating backups.
   device and Windows account, for example with device encryption (BitLocker or Device Encryption),
   a password and secure storage for your backups.
 
-## 5. Internet use: Microsoft Store purchases and licences
+## 5. Internet use
 
-Merqavion is free to use. **Merqavion Pro** is an optional one-time in-app purchase sold through
-the Microsoft Store.
+Merqavion is completely free to use and does not require an online account, subscription or in-app purchase.
 
-- When you open **Settings > Merqavion Pro**, choose **Upgrade to Pro** or **Restore purchases**,
-  or start the app, Merqavion asks Windows and the Microsoft Store for the Pro product, its price
-  and whether your Microsoft account owns it. These requests are made by Windows and the
-  Microsoft Store and can use the internet. They are handled by Microsoft under the
-  [Microsoft Privacy Statement](https://privacy.microsoft.com/privacystatement) and involve your
-  Microsoft account and device as Microsoft describes there.
-- Payment takes place in the Microsoft Store's own purchase window. **Merqavion never receives or
-  stores your payment card or billing details.** The publisher receives sales reports from
-  Microsoft as Microsoft provides them to app publishers.
-- Merqavion does not send your business records in these requests and does not store its own
-  "purchased" flag; Windows keeps the Store licence.
+Merqavion does not provide cloud synchronization, telemetry, analytics, advertising, automatic crash reporting or remote access by the publisher. Its business management features work offline.
 
-Apart from these Microsoft Store requests, Merqavion has no cloud sync, no telemetry or analytics,
-no advertising, no automatic crash reports and no remote access by the publisher. All business
-features work offline.
-
-Windows, the Microsoft Store, printers, the programs that open your files, and any cloud-synced
-folders you choose have their own behaviour and privacy terms.
+Windows, the Microsoft Store, printers, programs used to open files, and any cloud-synchronized folders you choose may have their own internet activity and privacy practices. These are governed by their respective providers.
 
 ## 6. Files, attachments and exports
 
