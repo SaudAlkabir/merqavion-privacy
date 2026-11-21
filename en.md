@@ -94,8 +94,7 @@ encrypted**. Keep them somewhere safe. Restoring a backup replaces the current d
   database and attachments. Create a backup in a separate location before you uninstall. Backups
   and exports you saved outside the app's data folder are not removed by uninstalling.
 - Deleting files normally does not securely erase them from the storage device.
-- Buying or restoring Merqavion Pro does not change or delete business data. Restoring your Pro
-  purchase on another device does not copy your data; use a backup to move your records.
+
 
 ## 9. Sharing
 
