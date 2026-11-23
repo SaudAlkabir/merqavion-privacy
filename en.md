@@ -8,7 +8,7 @@ lang: en
 
 **Effective date:** 21 November 2026
 **Publisher:** Saud-Alkabir Ba Alawi
-**Privacy and support email:** merqavion.support@gmail.com
+
 **Country:** United Arab Emirates
 
 ## 1. Introduction
@@ -124,7 +124,7 @@ version is published at the privacy-policy address shown in the Microsoft Store 
 ## 13. Contact
 
 **Publisher:** Saud-Alkabir Ba Alawi
-**Email:** merqavion.support@gmail.com
+
 **Country:** United Arab Emirates
 
 **Last updated:** 21 November 2026
